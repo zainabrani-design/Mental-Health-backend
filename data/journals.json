@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "6a3b7d62a70d6467ac95b07c",
+    "userId": "test-user-123",
+    "feeling": "I felt peaceful doing research and coding today.",
+    "mood": "Calm",
+    "moodScore": 8,
+    "timestamp": "2026-06-24T06:46:58.949Z",
+    "createdAt": "2026-06-24T06:46:58.949Z",
+    "updatedAt": "2026-06-24T06:46:58.949Z"
+  },
+  {
+    "_id": "6a3b7e3e6af3e9e6a29523b4",
+    "userId": "1782283242043",
+    "feeling": "Feeling Calm ",
+    "mood": "Calm",
+    "moodScore": 5,
+    "timestamp": "2026-06-24T06:50:38.925Z",
+    "createdAt": "2026-06-24T06:50:38.925Z",
+    "updatedAt": "2026-06-24T06:50:38.925Z"
+  },
+  {
+    "_id": "6a3b8a87baebf9e0d1069973",
+    "userId": "1782283242043",
+    "feeling": "Feeling happy",
+    "mood": "Happy",
+    "moodScore": 5,
+    "timestamp": "2026-06-24T07:43:03.681Z",
+    "createdAt": "2026-06-24T07:43:03.681Z",
+    "updatedAt": "2026-06-24T07:43:03.681Z"
+  },
+  {
+    "userId": "1782283242043",
+    "feeling": "mY HEACHES NOT FEELING GOOD",
+    "mood": "Calm",
+    "moodScore": 6,
+    "faithMotivation": {
+      "type": "quran",
+      "theme": "trust_in_allah",
+      "arabicText": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+      "translation": "And whoever relies upon Allah - then He is sufficient for him.",
+      "translationUrdu": "اور جو شخص اللہ پر بھروسہ کرے تو وہ اس کے لیے کافی ہے۔",
+      "reference": "Qur'an 65:3",
+      "source": "Qur'an, Surah At-Talaq",
+      "authenticity": "Mutawatir",
+      "explanation": "Release what is beyond your control. Focus on what you can do today, and entrust your future and unresolved questions to Allah.",
+      "explanationUrdu": "جن چیزوں پر آپ کا اختیار نہیں، ان کی فکر چھوڑ دیں۔ آج کی کوشش کریں اور باقی سب کچھ اللہ پر چھوڑ دیں۔",
+      "personalizedNote": "This reminder offers gentle strength for your thoughts today."
+    },
+    "_id": "6aa7c60edf585bc103401c08",
+    "timestamp": "2026-09-14T10:01:50.062Z",
+    "createdAt": "2026-09-14T10:01:50.067Z",
+    "updatedAt": "2026-09-14T10:01:50.067Z",
+    "__v": 0
+  },
+  {
+    "userId": "1782283242043",
+    "feeling": "I AM NOT FEELING WELL PHYSICALY AND MENTALY",
+    "mood": "Frustrated",
+    "moodScore": 4,
+    "faithMotivation": {
+      "type": "hadith",
+      "theme": "anger",
+      "arabicText": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+      "translation": "The strong person is not the one who overcomes others by physical force; rather, the strong person is the one who controls oneself in anger.",
+      "translationUrdu": "طاقتور وہ نہیں جو لوگوں کو پچھاڑ دے، بلکہ اصل طاقتور وہ ہے جو غصے کے وقت اپنے آپ پر قابو رکھے۔",
+      "reference": "Sahih al-Bukhari 6114, Sahih Muslim 2609",
+      "source": "Sahih al-Bukhari & Sahih Muslim",
+      "authenticity": "Sahih",
+      "explanation": "When anger or irritation surges, step back, take a breath, and choose dignity and calm over impulsive words.",
+      "explanationUrdu": "جب غصہ یا چڑچڑاپن آئے تو ایک لمحہ رکیں، گہرا سانس لیں اور جلد بازی میں بولنے کے بجائے خاموشی اور تحمل کو چنیں۔",
+      "personalizedNote": "This reminder offers gentle strength for your thoughts today."
+    },
+    "_id": "6aa7c611df585bc103401c09",
+    "timestamp": "2026-09-14T10:01:53.261Z",
+    "createdAt": "2026-09-14T10:01:53.262Z",
+    "updatedAt": "2026-09-14T10:01:53.262Z",
+    "__v": 0
+  },
+  {
+    "userId": "1782283242043",
+    "feeling": "i am calm and happy",
+    "mood": "Calm",
+    "moodScore": 7,
+    "faithMotivation": {
+      "type": "hadith",
+      "theme": "gratitude",
+      "arabicText": "عَجَبًا لأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ... إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ",
+      "translation": "How wonderful is the affair of the believer, for all his affairs are good! If something good happens to him, he is thankful and that is good for him.",
+      "translationUrdu": "مومن کا معاملہ بھی خوب ہے، اس کے تمام معاملات میں خیر ہی خیر ہے، اگر اسے خوشی پہنچے تو شکر کرتا ہے جو اس کے لیے بہتر ہے۔",
+      "reference": "Sahih Muslim 2999",
+      "source": "Sahih Muslim, Hadith 2999",
+      "authenticity": "Sahih",
+      "explanation": "Embrace peaceful and joyful moments with an open, grateful heart. True well-being is cherishing the good and keeping perspective in the difficult.",
+      "explanationUrdu": "خوشی کے لمحات کو شکر گزاری سے منائیں۔ خوشحالی میں شکر اور سختی میں صبر ہی حقیقی کامیابی ہے۔",
+      "personalizedNote": "This reminder offers gentle strength for your thoughts today."
+    },
+    "_id": "6aa7cd8ed9e16796b84da417",
+    "timestamp": "2026-09-14T10:33:50.634Z",
+    "createdAt": "2026-09-14T10:33:50.637Z",
+    "updatedAt": "2026-09-14T10:33:50.637Z",
+    "__v": 0
+  },
+  {
+    "userId": "6aad627762acff09a5934ceb",
+    "feeling": "jskdbcfj",
+    "mood": "Anxious",
+    "moodScore": 5,
+    "faithMotivation": {
+      "type": "hadith",
+      "theme": "anxiety",
+      "arabicText": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ، وَغَلَبَةِ الرِّجَالِ",
+      "translation": "O Allah, I seek refuge in You from anxiety and sorrow, from weakness and laziness, from miserliness and cowardice, from the burden of debt and from being overpowered by others.",
+      "translationUrdu": "اے اللہ! میں غم اور فکر سے، کمزوری اور سستی سے، بخل اور بزدلی سے، قرض کے بوجھ اور لوگوں کے غلبے سے تیری پناہ مانگتا ہوں۔",
+      "reference": "Sahih al-Bukhari 2893",
+      "source": "Sahih al-Bukhari, Hadith 2893",
+      "authenticity": "Sahih",
+      "explanation": "This profound supplication reminds us that anxiety is a natural human emotion. Naming your worries and seeking divine refuge can lift heavy weights from your chest.",
+      "explanationUrdu": "یہ دعا یاد دلاتی ہے کہ پریشانی اور بے چینی فطری کیفیات ہیں۔ اپنے احساسات کو مان کر دعا کرنا دل کو گہرا سکون بخشتا ہے۔",
+      "personalizedNote": "This reminder offers gentle strength for your thoughts today."
+    },
+    "_id": "6aad62ac62acff09a5934ced",
+    "timestamp": "2026-09-18T16:11:24.453Z",
+    "createdAt": "2026-09-18T16:11:24.467Z",
+    "updatedAt": "2026-09-18T16:11:24.467Z",
+    "__v": 0
+  },
+  {
+    "userId": "6ab6cdcbcbfac2852488cbee",
+    "feeling": "i feel like bird",
+    "mood": "Happy",
+    "moodScore": 5,
+    "faithMotivation": {
+      "type": "quran",
+      "theme": "gratitude",
+      "arabicText": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+      "translation": "If you are grateful, I will surely increase you [in favor].",
+      "translationUrdu": "اگر تم شکر ادا کرو گے تو میں تمہیں ضرور زیادہ دوں گا۔",
+      "reference": "Qur'an 14:7",
+      "source": "Qur'an, Surah Ibrahim",
+      "authenticity": "Mutawatir",
+      "explanation": "Noticing and journaling the small joys and blessings of today rewires your outlook towards sustained contentment and positivity.",
+      "explanationUrdu": "آج کی چھوٹی چھوٹی نعمتوں اور خوشیوں پر شکر ادا کرنا زندگی میں برکت اور دل میں اطمینان بڑھاتا ہے۔",
+      "personalizedNote": "This reminder offers gentle strength for your thoughts today."
+    },
+    "_id": "6ab6ce40cbfac2852488cbf0",
+    "timestamp": "2026-09-25T19:40:48.189Z",
+    "createdAt": "2026-09-25T19:40:48.191Z",
+    "updatedAt": "2026-09-25T19:40:48.191Z",
+    "__v": 0
+  }
+]

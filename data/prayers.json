@@ -1,0 +1,24 @@
+[
+  {
+    "userId": "1782283242043",
+    "date": "2026-09-14",
+    "fajr": true,
+    "dhuhr": true,
+    "asr": false,
+    "maghrib": false,
+    "isha": false,
+    "allCompleted": false,
+    "updatedAt": "2026-09-14T10:23:20.548Z"
+  },
+  {
+    "userId": "6ab6bb4b9606fa5562308d19",
+    "date": "2026-09-25",
+    "fajr": false,
+    "dhuhr": false,
+    "asr": false,
+    "maghrib": false,
+    "isha": false,
+    "allCompleted": false,
+    "updatedAt": "2026-09-25T18:34:04.624Z"
+  }
+]

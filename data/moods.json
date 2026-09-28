@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "6a3b7d62a70d6467ac95b07b",
+    "userId": "test-user-123",
+    "mood": "Calm / Relaxed",
+    "emoji": "😌",
+    "intensity": 3,
+    "timestamp": "2026-06-24T06:46:58.946Z",
+    "createdAt": "2026-06-24T06:46:58.947Z",
+    "updatedAt": "2026-06-24T06:46:58.947Z"
+  },
+  {
+    "_id": "6a3b7dc16af3e9e6a29523b3",
+    "userId": "1782283242043",
+    "mood": "Calm / Relaxed",
+    "emoji": "🙂",
+    "intensity": 2,
+    "timestamp": "2026-06-24T06:48:33.239Z",
+    "createdAt": "2026-06-24T06:48:33.239Z",
+    "updatedAt": "2026-06-24T06:48:33.239Z"
+  },
+  {
+    "_id": "6a45e08585e4035a3255914c",
+    "userId": "1782283242043",
+    "mood": "Happy / Content",
+    "emoji": "😊",
+    "intensity": 5,
+    "timestamp": "2026-07-02T03:52:37.670Z",
+    "createdAt": "2026-07-02T03:52:37.670Z",
+    "updatedAt": "2026-07-02T03:52:37.670Z"
+  },
+  {
+    "_id": "6a48b16e6e23793679a063f8",
+    "userId": "1782283242043",
+    "mood": "Confused / Uncertain",
+    "emoji": "😕",
+    "intensity": 5,
+    "timestamp": "2026-07-04T07:08:30.503Z",
+    "createdAt": "2026-07-04T07:08:30.503Z",
+    "updatedAt": "2026-07-04T07:08:30.503Z"
+  },
+  {
+    "_id": "6a883b832e689640edfaa36f",
+    "userId": "1782283242043",
+    "mood": "Neutral",
+    "emoji": "😐",
+    "intensity": 5,
+    "timestamp": "2026-08-21T11:50:27.788Z",
+    "createdAt": "2026-08-21T11:50:27.788Z",
+    "updatedAt": "2026-08-21T11:50:27.788Z"
+  }
+]
