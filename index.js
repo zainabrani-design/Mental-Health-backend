@@ -62,7 +62,9 @@ async function startServer() {
     console.log('🍃 MongoDB Connected (primary)');
     await seedFaithContentIfEmpty();
   } catch (primaryErr) {
-    console.error('❌ Primary MongoDB failed. Trying local...');
+    console.error('❌ Primary MongoDB failed:', primaryErr.message);
+    console.error('MongoDB error code:', primaryErr.code);
+    console.error('Trying local...');
     try {
       await mongoose.connect(localFallback, dbOptions);
       console.log('🍃 MongoDB Connected (local)');
